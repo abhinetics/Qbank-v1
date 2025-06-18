@@ -42,13 +42,11 @@ const Pricing = () => {
                 ))}
               </ul>
               
-              <a href="https://rzp.io/rzp/A8pmWPLN" target="_blank" rel="noopener noreferrer">
-                <button className="w-full bg-gray-100 hover:bg-gray-200 text-gray-800 font-medium py-3 px-4 rounded-md transition-colors">
-                  <span className="flex justify-center items-center">
-                    Buy Now for <span className="line-through text-gray-500 text-sm mx-1.5">₹129</span> <span className="font-semibold">₹79</span>
-                  </span>
-                </button>
-              </a>
+              <button className="w-full bg-gray-100 hover:bg-gray-200 text-gray-800 font-medium py-3 px-4 rounded-md transition-colors">
+                <span className="flex justify-center items-center">
+                  Buy Now for <span className="line-through text-gray-500 text-sm mx-1.5">₹129</span> <span className="font-semibold">₹79</span>
+                </span>
+              </button>
             </div>
           </div>
           

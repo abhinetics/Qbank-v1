@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useInView } from 'react-intersection-observer';
 import { motion } from 'framer-motion';
-import { Award, Briefcase, CircleCheck, TrendingUp } from 'lucide-react';
+import { Award, Briefcase, CircleCheck } from 'lucide-react';
 
 interface CounterProps {
   end: number;
